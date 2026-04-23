@@ -120,7 +120,7 @@ print(curso is not nome_curso)
 
 print(saldo is limite)
 
-print("operadores de associação")
+#operadores de associação
 curso = "Curso de Python"
 frutas = ["laranja", "uva", "maçã"]
 saques = [1500, 100]
