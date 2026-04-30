@@ -7,7 +7,9 @@ if n1 % 2 == 0:
 else:
     print("O número é ímpar")
 
+
 n2 = int(input("Digite outro número: "))
+
 
 if n1 > n2:
     print(n1, "é maior que", n2)
